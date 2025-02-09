@@ -1,6 +1,6 @@
 # 🏟 My Portfolio
 
-Welcome to my portfolio repository! This is a showcase of my skills, projects, and contributions in the field of data analysis and beyond.
+Welcome to my portfolio repository! This is a showcase of my skills, projects, and contributions.
 
 ---
 
