@@ -6,8 +6,6 @@ Welcome to my portfolio repository! This is a showcase of my skills, projects, a
 
 ## 📚 Table of Contents
 - [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
 
 ---
 
@@ -21,25 +19,3 @@ Welcome to my portfolio repository! This is a showcase of my skills, projects, a
 | [Drum Kit App](https://github.com/leonardof108/drum-kit)    | Web App           | Javascript, html, css     | Interactive drum kit app developed in javascript. [Live version](https://drum-kit-amber-sigma.vercel.app/)               |
 | [Expanding Cards Snippet](https://github.com/leonardof108/expanding-cards)    | css snippet             | html, css   | Expanding cards snippet developed in css. [Live version](https://expanding-cards-seven-tawny.vercel.app/)            |
 | [Simon Says Game](https://github.com/leonardof108/Simon-Says)    | Web Game           | Javascript, html, css     | Simon Says game developed in javascript. [Live version](simon-says-xi.vercel.app)              |
-
----
-
-## Skills
-
-### Tools and Technologies
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)
-- SQL (PostgreSQL, MySQL)
-- Data Visualization (Power BI, Seaborn)
-- Simple Web Development (html, css, javascript, bootstrap)
-
----
-
-## Contact
-
-Feel free to connect with me for collaboration or inquiries:
-
-- **Email:** [leonardof108@gmail.com](mailto:leonardof108@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/leonardof108](https://www.linkedin.com/in/leonardof108)
-- **GitHub:** [https://github.com/leonardof108](https://github.com/leonardof108)
-
----
