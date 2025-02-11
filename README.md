@@ -21,26 +21,18 @@ Welcome to my portfolio repository! This serves as a showcase of my work in **fu
 | Project | Stack | Live Demo | Description |
 |---------|------|-----------|-------------|
 | **[336 Burger Restaurant](https://github.com/leonardof108/336-mockup-page)** | HTML, CSS, JavaScript, Bootstrap | [Live](https://leonardof108.github.io/336-mockup-page/) | A responsive website for a hamburger restaurant. |
-| **[PWA with Offline Support](#)** | React, Service Workers, IndexedDB, Tailwind, Docker | [Live](#) | A progressive web app (PWA) that works offline using IndexedDB. |
-| **[Chatbot with OpenAI API](#)** | Next.js, OpenAI API, FastAPI, MongoDB, WebSockets | [Live](#) | A real-time chatbot using OpenAI’s API + WebSockets. |
 
 ### 🔹 APIs & Backend
 | Project | Stack | Live Demo | Description |
 |---------|------|-----------|-------------|
-| **[GraphQL vs REST Benchmark](#)** | Node.js, Express, NestJS, GraphQL, PostgreSQL, Jest, K6 | [Live](#) | I built two APIs — one REST, one GraphQL — and benchmarked their performance using Fastify and Express. |
-| **[Caching & Load Balancing](#)** | Redis, Nginx, Docker, PostgreSQL, Node.js | [Live](#) | I built an API with caching using Redis and use Nginx for load balancing, and addedlazy loading & tree shaking to the frontend. |
 
 ### 🔹 DevOps & Cloud
 | Project | Stack | Live Demo | Description |
 |---------|------|-----------|-------------|
-| **[CI/CD Pipeline Boilerplate](#)** | Docker, Kubernetes, GitHub Actions, AWS, Nginx, Prometheus + Grafana | [Live](#) | A simple "Hello World" React + Node.js app using Docker, automated deployment with GitHub Actions, and hosted on AWS. |
 
 ### 🔹 Security & Performance
 | Project | Stack | Live Demo | Description |
 |---------|------|-----------|-------------|
-| **[Authentication System Boilerplate](#)** | JWT, OAuth, Redis + Express Rate Limit | [Live](#) | A simple user authentication system with JWT & OAuth (Google/GitHub login). |
-| **[Authentication System Boilerplate](#)** | OWASP, Metasploit, Burp Suite, CORS, CSRF, XSS Prevention | [Live](#) | A deliberately vulnerable app that i fix step-by-step. |
-| **[Frontend & Backend Tests](#)** | Jest, Cypress, Selenium, Mocha, GitHub Actions | [Live](#) | I took a simple React + Node.js app and automated unit, integration, and E2E tests. |
 
 ### 🔹 Game Development
 | Project | Stack | Live Demo | Description |
